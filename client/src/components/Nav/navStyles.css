@@ -1,0 +1,62 @@
+.nav-container {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav-title {
+  margin: 0;
+}
+
+.nav-items {
+  display: flex;
+  align-items: center;
+}
+
+.nav-username {
+  margin-right: 10px;
+  font-size: 1em;
+  background-color: grey;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.nav-button {
+  padding: 8px 16px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.register {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.create-post {
+  background-color: #17a2b8;
+  color: #fff;
+}
+
+.logout {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.nav-button:not(:last-child) {
+  margin-right: 10px;
+}

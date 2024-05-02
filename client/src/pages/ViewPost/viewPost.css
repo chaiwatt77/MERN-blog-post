@@ -1,0 +1,77 @@
+.container {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.back-btn {
+  padding: 8px 16px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.edit-btn {
+  padding: 8px 16px;
+  font-size: 1em;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.delete-btn {
+  padding: 8px 16px;
+  font-size: 1em;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.comment-input-container {
+  margin-bottom: 20px;
+}
+
+.comment-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.comment-submit-btn {
+  padding: 8px 16px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.comment-container {
+  margin-bottom: 20px;
+}
+
+.comment-options {
+  margin-top: 10px;
+}
+
+.comment-options .edit-btn {
+  margin-right: 10px;
+}
